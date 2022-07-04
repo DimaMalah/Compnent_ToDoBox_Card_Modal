@@ -1,9 +1,9 @@
 import React from 'react';
-import Todobox from './components/Todobox';
+import Component from './components/Component';
 
 function App() {
 	return (
-		<Todobox />
+		<Component />
 	);
 }
 
